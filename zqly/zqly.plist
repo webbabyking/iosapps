@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.108:8080/zqly/zqly.ipa</string>
+					<string>https://github.com/webbabyking/iosapps/zqly/zqly.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.2.108:8080/zqly/zqly.png</string>
+					<string>https://github.com/webbabyking/iosapps/zqly/zqly.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.2.108:8080/zqly/zqly.png</string>
+					<string>https://github.com/webbabyking/iosapps/zqly/zqly.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
